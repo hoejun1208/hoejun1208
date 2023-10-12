@@ -70,8 +70,9 @@
   ## 📲Contact
   <a href="mailto:hoejun1208@sunmoon.ac.kr"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hoejun1208@sunmoon.ac.kr"> </a>
   <a href="https://code-escape.tistory.com" target="_blank"><img src="https://img.shields.io/badge/티스토리 블로그-f75748?style=for-the-badge&logo=tistory&logoColor=black"/></a>
+  <!--
   <a href="https://boatneck-cycle-933.notion.site/bc1a3326f8dd447fbadb80cdeb90518a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion 포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-  
+  -->
   
 </div>
 
